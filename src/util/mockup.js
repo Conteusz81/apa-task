@@ -1,0 +1,17 @@
+export const mockupData = [
+    { id: "1", content: "Component Mockup Content", status: "ok"},
+    { id: "2", content: "Component Mockup Content", status: "ok"},
+    { id: "3", content: "Component Mockup Content", status: "ok"},
+    { id: "4", content: "Component Mockup Content", status: "warning"},
+    { id: "5", content: "Component Mockup Content", status: "warning"},
+    { id: "6", content: "Component Mockup Content", status: "error"},
+    { id: "7", content: "Component Mockup Content", status: "error"},
+    { id: "8", content: "Component Mockup Content", status: "ok"},
+    { id: "9", content: "Component Mockup Content", status: "warning"},
+    { id: "10", content: "Component Mockup Content", status: "warning"},
+    { id: "11", content: "Component Mockup Content", status: "ok"},
+    { id: "12", content: "Component Mockup Content", status: "warning"},
+    { id: "13", content: "Component Mockup Content", status: "ok"},
+    { id: "14", content: "Component Mockup Content", status: "error"},
+    { id: "15", content: "Component Mockup Content", status: "ok"},
+]
